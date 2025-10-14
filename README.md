@@ -1,6 +1,4 @@
 ## Hi there 👋
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nstathou&count_private=true&token=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" /> </p>
-
 <!--
 **nstathou/nstathou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
