@@ -8,7 +8,6 @@ I am **Nikos Stathoulopoulos**, a PhD student in the [Robotics and AI Group](htt
 - 🔗 Connect with me: [LinkedIn](www.linkedin.com/in/nikos-stathoulopoulos/)
 - 📫 Contact me: [niksta@ltu.se](mailto:niksta@ltu.com)
 <!--- - 🌐 [**Website**](https://) --->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nstathou/nstathou/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/nstathou/nstathou/blob/output/github-contribution-grid-snake.svg" />
