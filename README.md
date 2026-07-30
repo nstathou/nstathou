@@ -6,7 +6,7 @@ I am **Nikos Stathoulopoulos**, a PhD student in the [Robotics and AI Group](htt
 - 🔭 Current research: Place Recognition, Loop Closure, Long-Term/Large-Scale Localization and Mapping.
 - 🎓 Google Scholar: [Nikolaos Stathoulopoulos](https://scholar.google.com/citations?hl=en&user=a_aBwmMAAAAJ)
 - 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/nikos-stathoulopoulos/)
-- 🌐 Website: [https://nstathou.github.io/webpage](https://nstathou.github.io/)
+- 🌐 Website: [https://nstathou.github.io](https://nstathou.github.io)
 - 📫 Contact me: [niksta@ltu.se](mailto:niksta@ltu.se)
   
 <picture>
